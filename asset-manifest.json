@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/IPL_Dashboard_App_ReactRouting_ReactJs/static/css/main.ba1aec9e.chunk.css",
+    "main.js": "/IPL_Dashboard_App_ReactRouting_ReactJs/static/js/main.647c9ad0.chunk.js",
+    "main.js.map": "/IPL_Dashboard_App_ReactRouting_ReactJs/static/js/main.647c9ad0.chunk.js.map",
+    "runtime-main.js": "/IPL_Dashboard_App_ReactRouting_ReactJs/static/js/runtime-main.b5b82f37.js",
+    "runtime-main.js.map": "/IPL_Dashboard_App_ReactRouting_ReactJs/static/js/runtime-main.b5b82f37.js.map",
+    "static/css/2.91ac4a78.chunk.css": "/IPL_Dashboard_App_ReactRouting_ReactJs/static/css/2.91ac4a78.chunk.css",
+    "static/js/2.65098442.chunk.js": "/IPL_Dashboard_App_ReactRouting_ReactJs/static/js/2.65098442.chunk.js",
+    "static/js/2.65098442.chunk.js.map": "/IPL_Dashboard_App_ReactRouting_ReactJs/static/js/2.65098442.chunk.js.map",
+    "index.html": "/IPL_Dashboard_App_ReactRouting_ReactJs/index.html",
+    "static/css/2.91ac4a78.chunk.css.map": "/IPL_Dashboard_App_ReactRouting_ReactJs/static/css/2.91ac4a78.chunk.css.map",
+    "static/css/main.ba1aec9e.chunk.css.map": "/IPL_Dashboard_App_ReactRouting_ReactJs/static/css/main.ba1aec9e.chunk.css.map",
+    "static/js/2.65098442.chunk.js.LICENSE.txt": "/IPL_Dashboard_App_ReactRouting_ReactJs/static/js/2.65098442.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5b82f37.js",
+    "static/css/2.91ac4a78.chunk.css",
+    "static/js/2.65098442.chunk.js",
+    "static/css/main.ba1aec9e.chunk.css",
+    "static/js/main.647c9ad0.chunk.js"
+  ]
+}
